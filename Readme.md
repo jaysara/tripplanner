@@ -226,7 +226,7 @@ Restart the application after each change to test both configurations under iden
 **Jay Saraiya**
 Architect | Performance Enthusiast | Java Concurrency Explorer
 
-🔗 [LinkedIn](https://www.linkedin.com/in/saraiyajay/)
+🔗 [LinkedIn](https://www.linkedin.com/in/jay-saraiya/)
 💬 Feedback and contributions are welcome!
 
 ---
