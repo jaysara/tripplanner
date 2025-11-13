@@ -1,3 +1,5 @@
+This code supports my LinkedIn article : https://www.linkedin.com/pulse/boosting-java-performance-virtual-threads-21-jay-saraiya-ewejc
+
 Perfect — that’s a clear and helpful addition. Here’s your **final, full `README.md`**, cleanly formatted and ready to drop into your GitHub repo.
 It includes your exact run instructions, configuration details, and example GET request.
 
